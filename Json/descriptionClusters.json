@@ -1,0 +1,97 @@
+{
+    "clusters": {
+      "0": {
+        "dedication": "Servicios",
+        "institutional_form": "Sociedad con fines de lucro",
+        "division": [
+          "Comercio al por mayor y menor, excepto el de vehículos automotores y motocicletas",
+          "Actividades inmobiliarias"
+        ],
+        "ventas_totales": 520818.0764981087,
+        "plazas": 12.9391067307,
+        "count": 120552.0
+      },
+      "1": {
+        "dedication": "Comercio",
+        "institutional_form": "Persona Natural obligado a llevar contabilidad",
+        "division": [
+          "Comercio al por menor, excepto el de vehículos automotores y motocicletas"
+        ],
+        "ventas_totales": 345678.123456789,
+        "plazas": 8.123456789,
+        "count": 234567.0
+      },
+      "2": {
+        "dedication": "Comercio",
+        "institutional_form": "Sociedad con fines de lucro",
+        "additional_info": [
+          "Grupo de empresas con el tercer mayor número de ventas totales",
+          "Grupo de empresas con el tercer mayor número de exportaciones"
+        ],
+        "ventas_totales": 456789.987654321,
+        "plazas": 15.5678901234,
+        "count": 345678.0
+      },
+      "3": {
+        "dedication": "Explotación de Minas y Canteras",
+        "institutional_form": "Empresa Pública",
+        "division": [
+          "Extracción de petróleo crudo y gas natural"
+        ],
+        "additional_info": [
+          "Empresas con las ventas totales más altas",
+          "Grupo de empresas con el mayor número de exportaciones",
+          "Empresas con el mayor número de plazas de trabajo"
+        ],
+        "ventas_totales": 789012.345678901,
+        "plazas": 20.9876543210,
+        "count": 456789.0
+      },
+      "4": {
+        "dedication": "Comercio y Servicios",
+        "institutional_form": "No obligadas a llevar contabilidad",
+        "additional_info": [
+          "Grupo de empresas con las ventas totales más bajas"
+        ],
+        "ventas_totales": 123456.789012345,
+        "plazas": 5.6789012345,
+        "count": 567890.0
+      },
+      "5": {
+        "dedication": "Servicios",
+        "institutional_form": "Sociedad con fines de lucro",
+        "additional_info": [
+          "Mayor presencia de empresas ubicadas en el cantón Guayaquil",
+          "Empresas más nuevas"
+        ],
+        "ventas_totales": 234567.890123456,
+        "plazas": 10.2345678901,
+        "count": 678901.0
+      },
+      "6": {
+        "dedication": "Comercio",
+        "institutional_form": "Persona Natural obligado a llevar contabilidad",
+        "additional_info": [
+          "Empresas con el menor número de plazas de trabajo",
+          "Empresas que registran el menor valor pagado a sus empleados",
+          "Empresas cuyo propietario es una mujer"
+        ],
+        "ventas_totales": 345678.901234567,
+        "plazas": 4.1234567890,
+        "count": 789012.0
+      },
+      "7": {
+        "dedication": "Comercio, Servicios e Industrias Manufactureras",
+        "institutional_form": "Sociedad con fines de lucro",
+        "additional_info": [
+          "Grupo de empresas con el segundo mayor número de ventas totales",
+          "Grupo de empresas con el segundo mayor número de exportaciones",
+          "Empresas con el segundo mayor número de plazas de trabajo",
+          "Empresas más antiguas"
+        ],
+        "ventas_totales": 456789.012345678,
+        "plazas": 18.9876543210,
+        "count": 890123.0
+      }
+    }
+  }
